@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing Music related apps
 - 🌱 I’m currently learning pygame and mido packages.
 - 💞️ I’m looking to collaborate with Industry Standard Developers.
-- 📫 How to reach me ...
+- 📫 How to reach me: eganathanckpcoding@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an engineer just like other Indians
 
